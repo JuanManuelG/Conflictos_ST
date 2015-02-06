@@ -1,0 +1,9 @@
+Conflictos_ST/__init__.py
+Conflictos_ST/settings.py
+Conflictos_ST/urls.py
+Conflictos_ST/wsgi.py
+Conflictos_ST.egg-info/PKG-INFO
+Conflictos_ST.egg-info/SOURCES.txt
+Conflictos_ST.egg-info/dependency_links.txt
+Conflictos_ST.egg-info/not-zip-safe
+Conflictos_ST.egg-info/top_level.txt
